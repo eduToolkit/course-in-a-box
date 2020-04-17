@@ -3,26 +3,52 @@ layout: index
 published: true
 ---
 
-## Create your own online course (and keep it)
+## Teachers Open Online Learning for Professional Development
 
-Course in a Box is an open source, online course creation tool. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
-
-Course materials are written in [Markdown](https://www.markdownguide.org/) and hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course.
-
-Using Course in a Box and hosting a course on Github are **completely free**, and we’ve outlined the process for putting together a course [on our blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/). If you’d like to hire us to help you set things up and/or co-design the course with you, [we can do that](https://www.p2pu.org/en/work-with-us/). 
+During an inital stage it is useful to get an overview of the different social media tools available on Internet.  This is an attempt to list some web tools relevant to education and link usefull resources We will investigate the concept of 'The Networked Teacher' and find out more about 'Networked Literacy' in education.  The course is based on 'Social Networking' and 'Open Education'.  The participants will recieve 'Badges' as recognition for their achievements. 
 
 
-Here are some recent courses that have been built with Course in a Box:
+Skills Development Model:
 
-- [Learning to (re)use open educational resources](http://www.exploerercourse.org/) by Creative Commons & Open University
-- [Create and sustain effective makerspaces in your community](http://p2pu.github.io/makingandlearning/) by Pittsburgh Children’s Museum
-- [Learning about learning circles](https://p2pu.github.io/facilitate-course/) by P2PU
+When I get asked to evaluate the learning outcome, two metaphors become useful.  Practice will develop strength, similar to muscle growth during training, but before you practice you must know and understand intellectually what has to be done.  Our knowledge is often described as complex and emergent and the way forward is to navigate the discourse, similar to riding a wave
 
 
-## Reach new audiences
+## Toolkit for the networked teacher
 
-Online courses take a big step forwards in the sharing of knowledge around the world. However, your course is only ever as good as the people it reaches. To help reach new audiences with online courses, P2PU developed learning circles: groups for people who take online courses together, in local libraries or community spaces.
+The idea of a toolkit for the networked teacher seems daunting, but I believe certain functions and main activities will remain.  Let’s start with six activities and try to find practical examples that can create specific measurable results (this is normally good to keep up the motivation):
 
-Once you create a course, you can add it to P2PU’s learning circle [course page](http://p2pu.org/en/courses/), a growing database of online courses that people are using to facilitate learning circles around the world. You can also check out our [facilitator page](https://www.p2pu.org/en/facilitate/) to learn how to run your own learning circle.
+1. Communication:
 
+-Listen to a conference presentation
+-Create a blog where you introduce yourself and your interests.  Demonstrate what is your standpoint and refer (ping back or track back) to content that relate with your ideas.
+
+2. Publishing & Sharing:
+
+-Record your own audio or video presentation
+-Upload a slide presentation to Slideshare or similar site
+-Create and add social visual artifacts with tags (Flickr, Youtube etc.).
+-Share your tags and social bookmarks 
+
+3. Collaboration:
+
+-Get involved with annotation and bookmarking
+-Participate in network sub-clusters (such hashtag communities based on user-defined Folksonomies) with others who share similar interests 
+
+4. Self-organization of the learning process:
+
+-Write a blog post (or Twitter) about something you have learned or reflect on your daily practice, create new content that is important to you (add keywords or tags)
+-Bookmark and tag useful sources on a site like Delicious or Diigo (subscribe tags of interest) so that you can organize knowledge in a manner that is personally meaningful
+-Analyze information who are the visitors of your blog (WordPress statistic on the dashboard) 
+
+5. Creating a social network:
+
+- Develop mutual relationships and connect through feed readers or micro-blogging
+- Take contact with new people with similar interest that you stumble upon (subscribe to their feeds)
+- Make new friends and professional contacts for collaboration, events participation, chatting, etc.  Make direct links between your own blog and their blog.
+-Join with people’s social bookmark networks
+
+6. Searching the net:
+
+-Do search on a topic of interest and include Google Blog Search, Google News Search, Delicious, Slideshare, and Youtube.
+-Follow the hash-tags or tags in tagcloud to analyse, which tags might be of interest, find the versions of the tags for your blog. The appropriate tags will give you direct contact to people who use these tags for marking their contributions.
 
