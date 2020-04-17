@@ -8,7 +8,7 @@ published: true
 During an inital stage it is useful to get an overview of the different social media tools available on Internet.  This is an attempt to list some web tools relevant to education and link usefull resources We will investigate the concept of 'The Networked Teacher' and find out more about 'Networked Literacy' in education.  The course is based on 'Social Networking' and 'Open Education'.  The participants will recieve 'Badges' as recognition for their achievements. 
 
 
-Skills Development Model:
+## Skills Development Model
 
 When I get asked to evaluate the learning outcome, two metaphors become useful.  Practice will develop strength, similar to muscle growth during training, but before you practice you must know and understand intellectually what has to be done.  Our knowledge is often described as complex and emergent and the way forward is to navigate the discourse, similar to riding a wave
 
