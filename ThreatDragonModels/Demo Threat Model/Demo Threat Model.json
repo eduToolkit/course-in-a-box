@@ -1,17 +1,14 @@
 {
   "summary": {
     "title": "Demo Threat Model",
-    "owner": "Mike Goodwin",
+    "owner": "Jonas Bäckelin",
     "description": "A sample model of a web application, with a queue-decoupled background process.",
     "id": 0
   },
   "detail": {
     "contributors": [
       {
-        "name": "Tom Brown"
-      },
-      {
-        "name": "Albert Moneypenny"
+        "name": "Jonas Bäckelin"
       }
     ],
     "diagrams": [
@@ -2028,5 +2025,7 @@
     "reviewer": "Jane Smith",
     "threatTop": 0
   },
-  "version": "2.3.0"
+  "version": "2.3.0",
+  "released_at": "2026-10-18",
+  "release_version": "1"
 }
